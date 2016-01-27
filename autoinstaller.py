@@ -1,3 +1,5 @@
+# Created by Massimo Di Pierro (http://experts4solutions.com) @2016 BSDv3 License
+
 import sys, imp
 from ez_setup import use_setuptools
 use_setuptools()

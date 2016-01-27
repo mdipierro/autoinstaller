@@ -27,4 +27,4 @@ Of course you must install autoinstaller first the old fashion way:
 
 ## License
 
-BSD version 3
+BSD version 3 - created by Massimo Di Pierro (http://experts4solutions.com)
