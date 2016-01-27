@@ -20,3 +20,11 @@ But if you have autoinstaller
     >>>
 
 And from now on the package can be used without existing or restarting the process.
+
+Of course you must install autoinstaller first the old fashion way:
+
+    >>> import autoinstaller
+
+## License
+
+BSD version 3
