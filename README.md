@@ -1,5 +1,7 @@
 # autoinstaller
 
+(Warning: apparently David Beazley invented this before me https://www.youtube.com/watch?v=0oTh1CXRaQ0&feature=youtu.be&t=2h39m46s although he thinks it is a bad idea, so use it in moderation!)
+
 A package that automagically installs from PyPi everything you need as soon as you try import it.
 For example, let's assume that you do not have the tornado web server.
 
